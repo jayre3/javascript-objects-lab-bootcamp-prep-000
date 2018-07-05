@@ -73,3 +73,5 @@ describe('Objects', function() {
   })
 
 })
+
+var recipes = {}
